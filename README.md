@@ -1,5 +1,8 @@
 ### Ashkbiz Danehkar's GitHub Repositories 👋👨🏼‍💻🔭 
 [![Ashkbiz Danehkar](https://raw.githubusercontent.com/danehkar/danehkar/main/github-header.webp)](https://www.danehkar.net/)
+
+[![ORCID](https://raw.githubusercontent.com/danehkar/danehkar/main/images/orcid-icon.png)](https://orcid.org/0000-0003-4552-5997) [![GoogleScholar](https://raw.githubusercontent.com/danehkar/danehkar/main/images/googlescholar-icon.png)](https://scholar.google.com/citations?user=a2LX8coAAAAJ) [![Scopus](https://raw.githubusercontent.com/danehkar/danehkar/main/images/scopus-icon.png)](https://www.scopus.com/authid/detail.uri?authorId=34972723700) [![Publons](https://raw.githubusercontent.com/danehkar/danehkar/main/images/publons-icon.png)](https://publons.com/a/843927) [![ResearchGate](https://raw.githubusercontent.com/danehkar/danehkar/main/images/researchgate-icon.png)](https://www.researchgate.net/profile/Ashkbiz_Danehkar) [![figshare](https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png)](https://figshare.com/authors/Ashkbiz_Danehkar/2638657) [![Sketchfab](https://raw.githubusercontent.com/danehkar/danehkar/main/images/sketchfab-icon.png)](https://sketchfab.com/danehkar)
+
 <!--
 **danehkar/danehkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

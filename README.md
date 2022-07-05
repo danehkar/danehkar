@@ -74,3 +74,7 @@ Here are some ideas to get you started:
 </center>
 
 ---
+
+![duncanmmacleod's GitHub stats](https://github-readme-stats.vercel.app/api?username=danehkar&hide=stars,prs,issues&count_private=true&show_icons=true&theme=dark)
+
+---

@@ -21,35 +21,35 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/atomneb/AtomNeb-py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atomneb&repo=AtomNeb-py&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atomneb&repo=AtomNeb-py&theme=default_repocard" />
 </a>
 <a href="https://github.com/atomneb/AtomNeb-idl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atomneb&repo=AtomNeb-idl&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atomneb&repo=AtomNeb-idl&theme=default_repocard" />
 </a>
 <br />
 <a href="https://github.com/equib/pyEQUIB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=equib&repo=pyEQUIB&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=equib&repo=pyEQUIB&theme=default_repocard" />
 </a>
 <a href="https://github.com/equib/proEQUIB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=equib&repo=proEQUIB&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=equib&repo=proEQUIB&theme=default_repocard" />
 </a>
 <br />
 <a href="https://github.com/mcfit/pyemcee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcfit&repo=pyemcee&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcfit&repo=pyemcee&theme=default_repocard" />
 </a>
 <a href="https://github.com/mcfit/idl_emcee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcfit&repo=idl_emcee&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcfit&repo=idl_emcee&theme=default_repocard" />
 </a>
 <br />
 <a href="https://github.com/xstarkit/MPI_XSTAR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xstarkit&repo=MPI_XSTAR&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xstarkit&repo=MPI_XSTAR&theme=default_repocard" />
 </a>
 <a href="https://github.com/mcfit/slmpi_emcee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcfit&repo=slmpi_emcee&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcfit&repo=slmpi_emcee&theme=default_repocard" />
 </a>
 <br />
 <a href="https://github.com/mgfit/MGFIT-idl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgfit&repo=MGFIT-idl&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgfit&repo=MGFIT-idl&theme=default_repocard" />
 </a>
 
 ---

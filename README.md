@@ -1,7 +1,27 @@
 ### Ashkbiz (Ash) Danehkar's GitHub Repositories
 [![Ashkbiz Danehkar](https://raw.githubusercontent.com/danehkar/danehkar/main/github-header.webp)](https://www.danehkar.net/)
 
+<a target="_blank" href="https://orcid.org/0000-0003-4552-5997"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/orcid-icon.png" alt="ORCID" /></a>
+<a target="_blank" href="https://scholar.google.com/citations?user=a2LX8coAAAAJ"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/googlescholar-icon.png" alt="GoogleScholar" /></a>
+<a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=34972723700"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/scopus-icon.png" alt="Scopus" /></a>
+<a target="_blank" href="https://www.webofscience.com/wos/author/rid/C-2053-2009"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/wos-icon.png" alt="Web of Science" /></a>
+<a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=orcid:0000-0003-4552-5997"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/ads-icon.png" alt="ADS" /></a>
+<details><summary>...</summary>
+<a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/arxiv-icon.png" alt="arXiv" /></a>
+<a target="_blank" href="https://www.researchgate.net/profile/Ashkbiz_Danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/researchgate-icon.png" alt="ResearchGate" /></a>
+<a target="_blank" href="https://inspirehep.net/authors/1048604"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/inspirehep-icon.png" alt="INSPIRE-HEP" /></a>
+<a target="_blank" href="https://aminer.org/profile/562d68c645cedb3398df0bac"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/aminer-icon.png" alt="AMiner" /></a>
+<a target="_blank" href="https://www.semanticscholar.org/author/37222186"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/semanticscholar-icon.png" alt="SemanticScholar" /></a>
+<a target="_blank" href="https://speakerdeck.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/speakerdeck-icon.png" alt="SpeakerDeck" /></a>
+<a target="_blank" href="https://pypi.org/user/danehkar/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/pypi-icon.png" alt="PyPI" /></a>
+<a target="_blank" href="https://figshare.com/authors/wd/2638657"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png" alt="figshare" /></a>
+<a target="_blank" href="https://sketchfab.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/sketchfab-icon.png" alt="Sketchfab" /></a>
+<a target="_blank" href="https://dblp.org/pid/211/7731"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dblp-icon.png" alt="DBLP" /></a>
+</details>
+
+<!--
 [![ORCID](https://raw.githubusercontent.com/danehkar/danehkar/main/images/orcid-icon.png)](https://orcid.org/0000-0003-4552-5997) [![GoogleScholar](https://raw.githubusercontent.com/danehkar/danehkar/main/images/googlescholar-icon.png)](https://scholar.google.com/citations?user=a2LX8coAAAAJ) [![Scopus](https://raw.githubusercontent.com/danehkar/danehkar/main/images/scopus-icon.png)](https://www.scopus.com/authid/detail.uri?authorId=34972723700) [![Web of Science](https://raw.githubusercontent.com/danehkar/danehkar/main/images/wos-icon.png)](https://www.webofscience.com/wos/author/rid/C-2053-2009) [![ADS](https://raw.githubusercontent.com/danehkar/danehkar/main/images/ads-icon.png)](https://ui.adsabs.harvard.edu/search/q=orcid:0000-0003-4552-5997) [![arXiv](https://raw.githubusercontent.com/danehkar/danehkar/main/images/arxiv-icon.png)](http://arxiv.org/a/danehkar_a_1) [![ResearchGate](https://raw.githubusercontent.com/danehkar/danehkar/main/images/researchgate-icon.png)](https://www.researchgate.net/profile/Ashkbiz_Danehkar) [![INSPIRE-HEP](https://raw.githubusercontent.com/danehkar/danehkar/main/images/inspirehep-icon.png)](https://inspirehep.net/authors/1048604) [![AMiner](https://raw.githubusercontent.com/danehkar/danehkar/main/images/aminer-icon.png)](https://aminer.org/profile/562d68c645cedb3398df0bac) [![SemanticScholar](https://raw.githubusercontent.com/danehkar/danehkar/main/images/semanticscholar-icon.png)](https://www.semanticscholar.org/author/37222186) [![SpeakerDeck](https://raw.githubusercontent.com/danehkar/danehkar/main/images/speakerdeck-icon.png)](https://speakerdeck.com/danehkar) [![PyPI](https://raw.githubusercontent.com/danehkar/danehkar/main/images/pypi-icon.png)](https://pypi.org/user/danehkar/) [![figshare](https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png)](https://figshare.com/authors/wd/2638657) [![Sketchfab](https://raw.githubusercontent.com/danehkar/danehkar/main/images/sketchfab-icon.png)](https://sketchfab.com/danehkar) [![DBLP](https://raw.githubusercontent.com/danehkar/danehkar/main/images/dblp-icon.png)](https://dblp.org/pid/211/7731)
+-->
 
 <!--
 **danehkar/danehkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

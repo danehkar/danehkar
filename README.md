@@ -9,7 +9,7 @@
 <a target="_blank" href="https://dblp.org/pid/211/7731"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dblp-icon.png" alt="DBLP" /></a>
 <a target="_blank" href="https://pypi.org/user/danehkar/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/pypi-icon.png" alt="PyPI" /></a>
 <a target="_blank" href="https://app.dimensions.ai/details/entities/publication/author/ur.07512031005.22"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dimensions-icon.png" alt="Dimensions AI" /></a>
-<details><summary>...</summary>
+<details><summary>. . .&nbsp;</summary>
 <a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/arxiv-icon.png" alt="arXiv" /></a>
 <a target="_blank" href="https://www.prophy.science/author/2775969/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/prophyscience-icon.png" alt="ProphyScience" /></a>
 <a target="_blank" href="https://www.semanticscholar.org/author/37222186"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/semanticscholar-icon.png" alt="SemanticScholar" /></a>

@@ -6,17 +6,21 @@
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=34972723700"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/scopus-icon.png" alt="Scopus" /></a>
 <a target="_blank" href="https://www.webofscience.com/wos/author/rid/C-2053-2009"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/wos-icon.png" alt="Web of Science" /></a>
 <a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=orcid:0000-0003-4552-5997"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/ads-icon.png" alt="ADS" /></a>
+<a target="_blank" href="https://dblp.org/pid/211/7731"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dblp-icon.png" alt="DBLP" /></a>
+<a target="_blank" href="https://pypi.org/user/danehkar/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/pypi-icon.png" alt="PyPI" /></a>
+<a target="_blank" href="https://app.dimensions.ai/details/entities/publication/author/ur.07512031005.22"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dimensions-icon.png" alt="Dimensions AI" /></a>
 <details><summary>...</summary>
 <a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/arxiv-icon.png" alt="arXiv" /></a>
+<a target="_blank" href="https://www.prophy.science/author/2775969/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/prophyscience-icon.png" alt="ProphyScience" /></a>
+<a target="_blank" href="https://www.semanticscholar.org/author/37222186"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/semanticscholar-icon.png" alt="SemanticScholar" /></a>
+<a target="_blank" href="https://sciprofiles.com/profile/171238"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/sciprofiles-icon.png" alt="SciProfiles" /></a>
+<a target="_blank" href="https://openalex.org/A2060060245"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/openalex-icon.png" alt="OpenAlex" /></a>
 <a target="_blank" href="https://www.researchgate.net/profile/Ashkbiz_Danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/researchgate-icon.png" alt="ResearchGate" /></a>
 <a target="_blank" href="https://inspirehep.net/authors/1048604"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/inspirehep-icon.png" alt="INSPIRE-HEP" /></a>
 <a target="_blank" href="https://aminer.org/profile/562d68c645cedb3398df0bac"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/aminer-icon.png" alt="AMiner" /></a>
-<a target="_blank" href="https://www.semanticscholar.org/author/37222186"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/semanticscholar-icon.png" alt="SemanticScholar" /></a>
 <a target="_blank" href="https://speakerdeck.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/speakerdeck-icon.png" alt="SpeakerDeck" /></a>
-<a target="_blank" href="https://pypi.org/user/danehkar/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/pypi-icon.png" alt="PyPI" /></a>
 <a target="_blank" href="https://figshare.com/authors/wd/2638657"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png" alt="figshare" /></a>
 <a target="_blank" href="https://sketchfab.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/sketchfab-icon.png" alt="Sketchfab" /></a>
-<a target="_blank" href="https://dblp.org/pid/211/7731"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dblp-icon.png" alt="DBLP" /></a>
 </details>
 
 <!--

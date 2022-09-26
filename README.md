@@ -22,6 +22,7 @@
 <a target="_blank" href="https://speakerdeck.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/speakerdeck-icon.png" alt="SpeakerDeck" /></a>
 <a target="_blank" href="https://figshare.com/authors/wd/2638657"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png" alt="figshare" /></a>
 <a target="_blank" href="https://sketchfab.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/sketchfab-icon.png" alt="Sketchfab" /></a>
+<a target="_blank" href="https://isni.org/isni/0000000418994015"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/isni-icon.png" alt="ISNI" /></a>
 </details>
 
 <!--

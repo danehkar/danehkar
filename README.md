@@ -1,5 +1,9 @@
 ### Ashkbiz (Ash) Danehkar's GitHub Repositories
-[![Ashkbiz Danehkar](https://raw.githubusercontent.com/danehkar/danehkar/main/github-header.webp)](https://www.danehkar.net/)
+[![Ashkbiz Danehkar](https://raw.githubusercontent.com/danehkar/danehkar/main/github-header1.webp)](https://www.danehkar.net/)
+
+<a target="_blank" href="https://astroneb.github.io/WR_PN_Kinematic_Models/figure5/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/3d_kinematic_models.webp" alt="3D Morpho-kinematic Models" /></a><a target="_blank" href="https://galacticwinds.github.io/superwinds/hydrodynamics/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/hydrodynamic_simulations.webp" alt="Hydrodynamic Simulations" /></a>
+
+[![Ashkbiz Danehkar](https://raw.githubusercontent.com/danehkar/danehkar/main/github-header2.webp)](https://www.danehkar.net/)
 
 <a target="_blank" href="https://orcid.org/0000-0003-4552-5997"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/orcid-icon.png" alt="ORCID" /></a>
 <a target="_blank" href="https://scholar.google.com/citations?user=a2LX8coAAAAJ"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/googlescholar-icon.png" alt="GoogleScholar" /></a>

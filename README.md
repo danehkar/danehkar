@@ -85,6 +85,29 @@ Here are some ideas to get you started:
 
 ---
 
+<center>
+<table>
+    <tr>
+        <td align="left">
+            :computer: <a href="https://github.com/atomneb/AtomNeb-py"><b>AtomNeb-py</b></a> <a target="_blank" href="https://mybinder.org/v2/gh/atomneb/AtomNeb-py/HEAD?labpath=Notebooks.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a>
+        </td>
+        <td align="left">
+          :computer: <a href="https://github.com/equib/pyEQUIB"><b>pyEQUIB</b></a> <a target="_blank" href="https://mybinder.org/v2/gh/equib/pyEQUIB/HEAD?labpath=Notebooks.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+          :computer: <a href="https://github.com/mcfit/pyemcee"><b>pyemcee</b></a>  <a target="_blank" href="https://mybinder.org/v2/gh/mcfit/pyemcee/HEAD?labpath=Notebook.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a>
+        </td>
+        <td align="left">
+          :computer: <a href="https://github.com/mcfit/idl_emcee"><b>idl_emcee</b></a> <a target="_blank" href="https://mybinder.org/v2/gh/mcfit/idl_emcee/HEAD?labpath=Notebook.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a>
+        </td>
+    </tr>
+</table>
+</center>
+
+---
+
 ![duncanmmacleod's GitHub stats](https://github-readme-stats.vercel.app/api?username=danehkar&hide=stars,prs,issues&count_private=true&show_icons=true&theme=dark)
 
 ---

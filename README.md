@@ -85,6 +85,8 @@ Here are some ideas to get you started:
 
 ---
 
+*Jupyter Notebooks*:
+
 <center>
 <table>
     <tr>

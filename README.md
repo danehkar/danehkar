@@ -105,6 +105,14 @@ Here are some ideas to get you started:
           :computer: <a href="https://github.com/mcfit/idl_emcee"><b>idl_emcee</b></a> <a target="_blank" href="https://mybinder.org/v2/gh/mcfit/idl_emcee/HEAD?labpath=Notebook.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a>
         </td>
     </tr>
+    <tr>
+        <td align="left">
+            :computer: <a href="https://github.com/atomneb/AtomNeb-idl"><b>AtomNeb-idl</b></a> <a target="_blank" href="https://mybinder.org/v2/gh/atomneb/AtomNeb-idl/HEAD?labpath=Notebooks.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a>
+        </td>
+        <td align="left">
+          :computer: <a href="https://github.com/equib/proEQUIB"><b>proEQUIB</b></a> <a target="_blank" href="https://mybinder.org/v2/gh/equib/proEQUIB/HEAD?labpath=Notebooks.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Binder" /></a> 
+        </td>
+    </tr>
 </table>
 </center>
 

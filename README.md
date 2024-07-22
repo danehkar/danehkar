@@ -15,7 +15,7 @@
 <a target="_blank" href="https://app.dimensions.ai/details/entities/publication/author/ur.07512031005.22"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dimensions-icon.png" alt="Dimensions AI" /></a>
 <details><summary>. . .&nbsp;</summary>
 <a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/arxiv-icon.png" alt="arXiv" /></a>
-<a target="_blank" href="https://www.prophy.science/author/2775969/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/prophyscience-icon.png" alt="ProphyScience" /></a>
+<a target="_blank" href="https://www.prophy.ai/author/2775969/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/prophyscience-icon.png" alt="ProphyScience" /></a>
 <a target="_blank" href="https://www.semanticscholar.org/author/37222186"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/semanticscholar-icon.png" alt="SemanticScholar" /></a>
 <a target="_blank" href="https://sciprofiles.com/profile/171238"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/sciprofiles-icon.png" alt="SciProfiles" /></a>
 <a target="_blank" href="https://openalex.org/authors/A5037213463"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/openalex-icon.png" alt="OpenAlex" /></a>

@@ -22,6 +22,7 @@
 <a target="_blank" href="https://www.researchgate.net/profile/Ashkbiz_Danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/researchgate-icon.png" alt="ResearchGate" /></a>
 <a target="_blank" href="https://inspirehep.net/authors/1048604"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/inspirehep-icon.png" alt="INSPIRE-HEP" /></a>
 <a target="_blank" href="https://aminer.org/profile/562d68c645cedb3398df0bac"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/aminer-icon.png" alt="AMiner" /></a>
+<a target="_blank" href="https://www.lens.org/lens/profile/476128377"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/lens-icon.png" alt="Lens" /></a>
 <a target="_blank" href="https://loop.frontiersin.org/people/129030/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/loop-icon.png" alt="Loop" /></a>
 <a target="_blank" href="https://speakerdeck.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/speakerdeck-icon.png" alt="SpeakerDeck" /></a>
 <a target="_blank" href="https://figshare.com/authors/wd/2638657"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png" alt="figshare" /></a>

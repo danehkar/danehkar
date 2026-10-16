@@ -12,6 +12,7 @@
 <a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=orcid:0000-0003-4552-5997"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/ads-icon.png" alt="ADS" /></a>
 <a target="_blank" href="https://dblp.org/pid/211/7731"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dblp-icon.png" alt="DBLP" /></a>
 <a target="_blank" href="https://pypi.org/user/danehkar/"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/pypi-icon.png" alt="PyPI" /></a>
+<a target="_blank" href="https://huggingface.co/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/huggingface-icon.png" alt="HuggingFace" /></a>
 <a target="_blank" href="https://app.dimensions.ai/details/entities/publication/author/ur.07512031005.22"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/dimensions-icon.png" alt="Dimensions AI" /></a>
 <details><summary>. . .&nbsp;</summary>
 <a target="_blank" href="http://arxiv.org/a/danehkar_a_1"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/arxiv-icon.png" alt="arXiv" /></a>
@@ -28,7 +29,6 @@
 <a target="_blank" href="https://figshare.com/authors/wd/2638657"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/figshare-icon.png" alt="figshare" /></a>
 <a target="_blank" href="https://sketchfab.com/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/sketchfab-icon.png" alt="Sketchfab" /></a>
 <a target="_blank" href="https://www.slideshare.net/AshkbizDanehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/slideshare-icon.png" alt="SlideShare" /></a>
-<a target="_blank" href="https://huggingface.co/danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/huggingface-icon.png" alt="HuggingFace" /></a>
 <a target="_blank" rel="me" href="https://aus.social/@danehkar"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/mastodon-icon.png" alt="Sketchfab" /></a>
 <a target="_blank" href="https://isni.org/isni/0000000418994015"><img src="https://raw.githubusercontent.com/danehkar/danehkar/main/images/isni-icon.png" alt="ISNI" /></a>
 </details>
